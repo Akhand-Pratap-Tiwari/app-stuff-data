@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-10T00:00:00Z",
+  "items": [
+    {
+      "id": "make-space",
+      "category": "PERSPECTIVE",
+      "title": "Make space for the pause",
+      "body": "You do not have to fill every quiet moment with an answer. A little room can show you what matters.",
+      "author": "Nora Bell",
+      "tags": ["mindfulness", "pause", "clarity"]
+    },
+    {
+      "id": "begin-again",
+      "category": "GROWTH",
+      "title": "Beginning again still counts",
+      "body": "Starting over is not proof that you failed. It is proof that you are willing to meet yourself where you are.",
+      "author": "Milo Hart",
+      "tags": ["growth", "resilience", "self-compassion"]
+    },
+    {
+      "id": "ordinary",
+      "category": "LIFE",
+      "title": "Notice the ordinary light",
+      "body": "A warm cup, a familiar song, an unhurried walk. A good life is often made of these small returns.",
+      "author": "Elena Reed",
+      "tags": ["gratitude", "everyday", "joy"]
+    },
+    {
+      "id": "kindness",
+      "category": "RELATIONSHIPS",
+      "title": "Kindness has a long memory",
+      "body": "The gentlest gesture can become a place someone rests long after the moment has passed.",
+      "author": "Asa Quinn",
+      "tags": ["kindness", "connection", "care"]
+    },
+    {
+      "id": "rest",
+      "category": "WELLBEING",
+      "title": "Rest is part of the work",
+      "body": "Your worth does not rise and fall with your output. Let your body be a home you listen to.",
+      "author": "June Avery",
+      "tags": ["rest", "wellbeing", "balance"]
+    }
+  ]
+}
